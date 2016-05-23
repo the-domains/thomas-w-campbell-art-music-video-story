@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Thomas W. CampbellArt, Music, Video, Film1986 to Present'
-datePublished: '2016-05-23T02:15:23.106Z'
-dateModified: '2016-05-23T02:11:30.715Z'
+datePublished: '2016-05-23T03:05:03.458Z'
+dateModified: '2016-05-23T02:41:15.005Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-23-thomas-w-campbellart-music-video-film1986-to-present.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-23-thomas-w-campbellart-music-video-film1986-to-present.md
+starred: true
 url: thomas-w-campbellart-music-video-film1986-to-present/index.html
 _type: Article
 
