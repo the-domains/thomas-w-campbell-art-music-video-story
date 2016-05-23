@@ -1,4 +1,4 @@
-name: Thomas W. Campbell Art Music Video Story
+name: T W Campbell Art Music Video Story
 favicon: null
 layout_spectrum: 0.8591428834479302
 typography_spectrum: 0.30371245625428855
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#010000'
+    - '#fff4b4'
+    - '#fecc45'
+    - '#cb7e00'
+    - '#481b00'
   brandStrength: 0.14456303394399583
   lightness: 0.5322297343518585
   saturation: 0.08469864982180297
