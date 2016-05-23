@@ -4,18 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Lyle Lovett and Band, Summerstage 2015'
-datePublished: '2016-05-23T02:55:21.475Z'
-dateModified: '2016-05-23T02:41:47.190Z'
+description: 'Rosanne Cash and Band, Summerstage NYC, 2015'
+datePublished: '2016-05-23T03:15:21.364Z'
+dateModified: '2016-05-23T03:08:47.753Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-thomas-w-campbell-art-music-video-story.md
 authors: []
 publisher: null
 starred: false
-url: thomas-w-campbell-art-music-video-story/index.html
+url: rosanne-cash-and-band-summerstage-nyc-2015/index.html
 _type: Article
 
 ---
-Lyle Lovett and Band, Summerstage 2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8a23428-93ed-453e-a627-92f4d6ecb776.jpg)
+Thomas W. Campbell  
+Art Music Video Story
+
+Rosanne Cash and Band, Summerstage NYC, 2015
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8396201-cab6-4f97-98e7-01e6f33e933d.jpg)
