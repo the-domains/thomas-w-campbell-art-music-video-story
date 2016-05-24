@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'James Best, Taiji and Rock and Roll, 2015'
-datePublished: '2016-05-23T03:02:52.462Z'
-dateModified: '2016-05-23T03:02:27.925Z'
+datePublished: '2016-05-24T02:16:41.174Z'
+dateModified: '2016-05-24T02:16:32.268Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-23-james-best-taiji-and-rock-and-roll-2015.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-23-james-best-taiji-and-rock-and-roll-2015.md
+starred: true
 url: james-best-taiji-and-rock-and-roll-2015/index.html
 _type: Article
 
